@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(131, 179, 147);
+    border-style: double;
+    border-width: 15px;
+    border-radius: 5px;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h1 {
+    padding-top: 5%;
+    letter-spacing: 2px;
+    font-size: 40px;
+}
+
+h2 {
+    padding-top: 2%;
+}
+
+.citacao {
+    text-align: right;
+    padding-top: 2%;
+    line-height: 1.5;
+    padding-top: 7%;
+}
+
+#fig {
+    width: 30%;
+    padding-top: 3%;
+}
+
+.container {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    padding-left: 5%;
+    padding-right: 5%;
+    text-indent: 5%;
+}
+
+.rodape {
+    text-align: center;
+    line-height: 0.4;
+    font-size: 12px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
